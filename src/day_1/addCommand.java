@@ -10,7 +10,7 @@ public class addCommand {
         
         
         
-        // This line was adde from github.com
+        // This line was added from github.com
 
     }
 }
